@@ -94,4 +94,4 @@ async def on_voice_state_update(member, before, after):
                 await channel.delete()
 
 
-bot.run("MTE2MzM3ODY5MzIzODk1NjAzMg.GoEbvW.lHY_eUOeZ7mnv8IB2kswOlSQIAWiiYKVhdcdHs")
+bot.run("BOT Token")
